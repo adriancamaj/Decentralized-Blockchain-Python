@@ -2,6 +2,9 @@
 
 This repository contains a decentralized blockchain network built in Python. The project provides a foundational understanding of how blockchain technology works, from core transaction management to node synchronization in a peer-to-peer network.
 
+![screenshot](Decentralized-P2P-Network-Model.png)
+![screenshot](Blockchain-Anatomy-Diagram.png)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
